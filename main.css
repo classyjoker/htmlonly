@@ -1,0 +1,29 @@
+html {
+    font-size: 22px;
+
+}
+body{
+    background-color: seagreen;
+    color: whitesmoke;
+    opacity: 0.9;
+}
+
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: lightgrey;
+}
+
+a:hover a:active{
+    color: #eee;
+}
+ 
+table, tr, th, td, caption {
+    border: 1px solid #eee;
+    font-family: 'courier New', Courier, monoscope;
+    border-collapse: collapse;
+    padding: 0.9rem;
+
+}
+
